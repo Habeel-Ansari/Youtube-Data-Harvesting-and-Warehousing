@@ -274,12 +274,12 @@ def main():
     st.title("YouTube Data Harvesting and Warehousing")
 
     # Preset values for API key, MongoDB URL, and MySQL config
-    preset_api_key = 'AIzaSyCkfI8Ed5LS9uCiE5OLNtqmZ-1HrAAiVVQ'
-    mongo_url = 'mongodb+srv://habeel:aRM47vmi7qmxw8@cluster0.vtjucen.mongodb.net/?retryWrites=true&w=majority'
+    preset_api_key = 'Enter Youtube API Key Here'
+    mongo_url = 'mongodb+srv://username:Password@cluster0.vtjucen.mongodb.net/?retryWrites=true&w=majority'
     mysql_config = {
         'host': 'localhost',
         'user': 'root',
-        'password': 'G#zVJ$6AfEU*$C',
+        'password': 'sqlpassword',
         'database': 'youtube_database'
     }
 
