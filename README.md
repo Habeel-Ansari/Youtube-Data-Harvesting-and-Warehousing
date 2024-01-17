@@ -39,6 +39,9 @@ This project provides a Python framework for automating the harvesting and wareh
 **Further Development:**
 
 * Implement data visualization tools for deeper analysis.
+
+* <img width="932" alt="image" src="https://github.com/Habeel-Ansari/Youtube-Data-Harvesting-and-Warehousing/assets/84073168/c170a2c6-c0fb-484b-be36-0514429e7a40">
+
 * Explore sentiment analysis of video comments.
 * Expand functionality to support other social media platforms.
 
